@@ -1,4 +1,4 @@
-Image Captions using Open Source LLMs from HuggingFace
+# Image Captions using Open Source LLMs from HuggingFace
 
 Creating an image captioning program in Python 3 using open source LLMs available on HuggingFace.
 
